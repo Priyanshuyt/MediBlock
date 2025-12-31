@@ -1,0 +1,8 @@
+# Dependencies
+
+opencv-python
+numpy
+scikit-learn
+scikit-image
+joblib
+matplotlib
