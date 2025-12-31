@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge&logo=fire)
+![Status](https://img.shields.io/badge/Status-Prototype (inprogress)-orange?style=for-the-badge&logo=fire)
 ![Stack](https://img.shields.io/badge/Tech-Python%20|%20Polygon%20|%20React-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
