@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Prototype (inprogress)-orange?style=for-the-badge&logo=fire)
+![Status](https://img.shields.io/badge/Status-Prototype(inprogress)-orange?style=for-the-badge&logo=fire)
 ![Stack](https://img.shields.io/badge/Tech-Python%20|%20Polygon%20|%20React-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -81,7 +81,7 @@ Before the AI can make a decision, we have to turn the physical tablet into data
 #### 2. Edge Roughness (E) → The "Cut" Check
 
 * **The Logic:** A factory mold creates a perfect, smooth edge. A cheap counterfeit press often leaves jagged, chipped, or uneven edges.
-* **The Math:** **Radial Variance**. We measure the distance from the center of the tablet to the edge at 360 different points. If these distances vary wildly, the edge is jagged (Anomaly). If they are consistent, it is smooth (Genuine).
+* **Math Logic:** **Radial Variance**. Measures the distance from the center of the tablet to the edge at 360 different points. If these distances vary wildly, the edge is jagged (Anomaly). If they are consistent, it is smooth (Genuine).
 
 #### 3. Imprint Depth (D) → The "Stamp" Check
 
