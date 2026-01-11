@@ -99,7 +99,7 @@ This ensures:
 
 ### 4.2 High-Level Data Flow Diagram
 
-![Data Flow Diagram](./images/data_flow_diagram.png)
+![Data Flow Diagram](./images/data_flow_diagram.jpeg)
 
 This shows the interaction between different system components - from the seller's pharmacy all the way to the blockchain ledger and back to the database.
 
@@ -107,7 +107,7 @@ This shows the interaction between different system components - from the seller
 
 ### 4.3 Layered System Architecture
 
-![Layered Architecture](./images/layered_architecture.png)
+![Layered Architecture](./images/layered_architecture.jpeg)
 
 **System Layers**
 
@@ -183,7 +183,7 @@ All values are **automatically computed from the image**.
 
 ### 5.4 Feature Extraction Process
 
-![Feature Extraction](./images/feature_extraction.png)
+![Feature Extraction](./images/feature_extraction.jpeg)
 
 *This shows how we convert a raw tablet image into a 4-dimensional numeric vector. Each feature (T, E, D, C) captures a different physical property that's hard for counterfeiters to replicate.*
 
@@ -330,7 +330,7 @@ It's used for **preventing fraud and deletion**.
 
 ### 6.2 Hybrid Storage Strategy
 
-![Hybrid Architecture](./images/hybrid_architecture.png)
+![Hybrid Architecture](./images/hybrid_architecture.jpeg)
 
 **Off-Chain (Firebase / Cloud)**
 
@@ -390,7 +390,7 @@ abc123xyz ≠ def456uvw → TAMPERING DETECTED
 
 ## 7️⃣ Database Schema
 
-![Database Schema](./images/database_schema.png)
+![Database Schema](./images/database_schema.jpeg)
 
 Key design points:
 
