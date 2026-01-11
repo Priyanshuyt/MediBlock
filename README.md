@@ -389,7 +389,7 @@ abc123xyz ≠ def456uvw → TAMPERING DETECTED
 
 ## 7️⃣ Database Schema
 
-![Database Schema](./images/database_schema.jpeg)
+![Database Schema](./images/database_schema1.jpeg)
 
 Key design points:
 
