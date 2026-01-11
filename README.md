@@ -63,7 +63,7 @@ This ensures:
 
 ### High-Level System Architecture
 
-![System Architecture](./images/blockchain_flow.png)
+![System Architecture](./images/layered_architecture.jpeg)
 
 *This diagram shows how data flows from the seller through ML processing to blockchain anchoring. Notice how heavy data (images, vectors) stays off-chain while critical decisions (PASS/FAIL) go on-chain.*
 
@@ -366,7 +366,6 @@ SHA-256 creates a unique 32-byte "fingerprint" of the entire report. If someone 
 
 ### 6.3 Blockchain Flow
 
-![Blockchain Flow](./images/blockchain_flow.png)
 
 **Step-by-step process:**
 
@@ -425,7 +424,7 @@ This structure ensures we can always trace: Which seller → Which batch → Wha
 * 2-3 tablet sampling mirrors real pharmaceutical QC practices
 
 **Speed breakdown per batch:**
-- Image capture: ~10 seconds per tablet × 2 tablets = 20 seconds
+- Image capture: ~5 seconds per tablet × 2 tablets = 10 seconds
 - ML processing: ~2 seconds
 - Blockchain submission: ~5 seconds
 - **Total: ~30-40 seconds per batch**
