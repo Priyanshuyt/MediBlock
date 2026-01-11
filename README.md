@@ -73,7 +73,7 @@ This ensures:
 
 ### 4.1 Complete System Workflow
 
-![End-to-End Workflow](./images/end_to_end_workflow.png)
+![End-to-End Workflow](./images/end_to_end_workflow.jpeg)
 
 **External Entity**
 
