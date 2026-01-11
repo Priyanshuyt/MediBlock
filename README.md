@@ -153,7 +153,7 @@ This approach makes the system:
 
 ### 5.2 Complete ML Workflow
 
-![ML Workflow](./images/ml_workflow.png)
+![ML Workflow](./images/ML_Work_Flow.png)
 
 The diagram above shows our complete machine learning pipeline from training to deployment. Notice how we:
 - Train only on genuine tablets
@@ -183,7 +183,7 @@ All values are **automatically computed from the image**.
 
 ### 5.4 Feature Extraction Process
 
-![Feature Extraction](./images/feature_extraction.jpeg)
+![Feature Extraction](./images/ml_pipeline.png)
 
 *This shows how we convert a raw tablet image into a 4-dimensional numeric vector. Each feature (T, E, D, C) captures a different physical property that's hard for counterfeiters to replicate.*
 
